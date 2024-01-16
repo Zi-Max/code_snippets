@@ -1,0 +1,25 @@
+Mission: successful
+Last Mission: unsuccessful
+Next Mission: successful upon capture of target
+
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+1234567890
+
+.[{()\^$|?*+
+
+321-555-4321
+123.555.1234
+
+example.com
+example.org
+https://www.google.com
+https://youtube.org
+https://facebook.net
+
+omar mohamed
+
+aaaabcc
+aabbbbc
+aacc
